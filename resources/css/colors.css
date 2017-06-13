@@ -1,0 +1,30 @@
+body, html {
+  color: #33383D;
+}
+
+header {
+  background-color: white;
+}
+
+header .first {
+  color: #2FA32F;
+}
+
+header .second {
+  color: grey;
+}
+
+header nav a {
+  color: #2FA32F;
+  background-color: white;
+}
+
+header nav a:hover {
+  color: white;
+  background-color: #2FA32F;
+}
+
+header nav a:active {
+  color: white;
+  background-color: #33383D;
+}
